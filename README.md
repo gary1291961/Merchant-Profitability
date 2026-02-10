@@ -1,2 +1,2 @@
 # Merchant-Profitability
-Analysis for NZ Merchnat profitability using updated pricing framework
+Analysis for NZ Merchant profitability using updated pricing framework
